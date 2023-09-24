@@ -2,8 +2,5 @@
 *.py[cod]
 .web
 __pycache__/
-.replit
-rxconfig.py
-replit.nix
 .upm
-.pythonlibs
+.pythonlibs/
