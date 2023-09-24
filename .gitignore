@@ -3,4 +3,6 @@
 .web
 __pycache__/
 .upm
-.pythonlibs/
+.pythonlibs
+.replit
+replit.nix
