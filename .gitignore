@@ -1,8 +1,8 @@
 *.db
 *.py[cod]
-.web
-__pycache__/
-.upm
 .pythonlibs
 .replit
+.upm
+.web
+__pycache__/
 replit.nix
