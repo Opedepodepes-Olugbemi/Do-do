@@ -4,5 +4,6 @@
 .replit
 .upm
 .web
+.venv
 __pycache__/
 replit.nix
