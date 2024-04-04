@@ -33,7 +33,7 @@
 
     previews = {
 
-      enable = true;
+      enable = false;
 
       previews = [
 
