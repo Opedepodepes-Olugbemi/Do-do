@@ -2,9 +2,9 @@
 *.py[cod]
 .pythonlibs
 .replit
-node_modules
 .upm
-.web
 .venv
+.web
 __pycache__/
+node_modules
 replit.nix
